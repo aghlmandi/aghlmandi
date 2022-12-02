@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aghlmandi
+- 👋 Hi, I’m Amir
 - 👀 I’m interested in Java & Swift & Full Stack
 - 🌱 I’m currently learning All of them
 - 📫 If you want to reach me, mail to a.aghlmandi@gmail.com
